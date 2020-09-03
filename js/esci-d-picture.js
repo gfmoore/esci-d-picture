@@ -18,10 +18,12 @@ Licence       GNU General Public Licence Version 3, 29 June 2007
 0.2.5   2020-08-19  #6 slider - tweak title and size
 0.2.6   2020-08-20  #10 Tooltips
 
+1.0.0  2020-09-03 Version 1.0.0
+
 */
 //#endregion 
 
-let version = '0.2.6';
+let version = '1.0.0';
 
 'use strict';
 $(function() {
